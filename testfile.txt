@@ -3,3 +3,4 @@ Another commit from the local machine
 Testing ssh connection
 Last testing before giving up
 Testin GIt reset 2
+Commit Lecture
